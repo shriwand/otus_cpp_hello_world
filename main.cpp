@@ -4,7 +4,7 @@
 
 int main (int argc, char *argv[])
 {
-  std::cout << "Version = " << std::endl;
+  std::cout << "Version = " << version() << std::endl;
 
   return 0;
 }
