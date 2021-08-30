@@ -1,1 +1,3 @@
-# otus_cpp_hello_world
+# Template project.
+
+conan + cmake + gtest
